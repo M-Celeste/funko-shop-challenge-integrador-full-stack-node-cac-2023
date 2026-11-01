@@ -1,0 +1,14 @@
+node_modules/
+.env
+data/*
+!data/.gitkeep
+*.log
+coverage/
+public/img/uploads/
+
+# Recursos locales excluidos de la publicación
+INICIAR.cmd
+.env.example
+compose.yaml
+docs/GITHUB.md
+docs/REQUISITOS.md
